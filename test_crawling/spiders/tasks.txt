@@ -1,0 +1,11 @@
+- review epapoutsia structure (done)
+- review giannakazakou structure (done)
+- review kalogirou structure (done). Note the website is blocking after some scraping
+- review Koolfly structure (done)
+- review Mortoglou structure (done)
+- review Myshoe structure (done)
+- review Nak structure (done)
+- review Parex structure (done)
+- review Sakellaris structure (done)
+- review Tsakirismallas structure (done). hint on the price, the actual price is sometimes the 'new_price' and other time the 'price'
+- review Voi_noi structure (done)
